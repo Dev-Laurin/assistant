@@ -1,0 +1,21 @@
+//Ideas to go about this project: 
+
+
+I think these are 2 different problems: 
+1. Neural network to generate complete words, sentences - requires large set of correct audio files of sentences of natural speakers.
+
+2. Neural network to generate sounds off a particular voice 
+
+//Currently in the marketplace (doing the same thing):
+Lyrebird - startup with 1 min of audio to be given to create a new voice with 
+https://lyrebird.ai
+
+DeepMind - Google's slower version 
+https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+
+
+Questions: 
+What type of neural network would be best for this? 
+
+//Out there
+This is a little out there, but rather than having an API where you give the NN words and it outputs those same words, what if we gave it meanings instead? (Intention)
