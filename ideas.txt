@@ -19,3 +19,7 @@ What type of neural network would be best for this?
 
 //Out there
 This is a little out there, but rather than having an API where you give the NN words and it outputs those same words, what if we gave it meanings instead? (Intention)
+
+
+Keywords for Search: 
+Speech Synthesis
